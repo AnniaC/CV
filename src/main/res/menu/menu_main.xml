@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigationphone"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="Telefon" />
+
+    <item
+        android:id="@+id/navigationMail"
+        android:icon="@drawable/ic_mail_black_24dp"
+        android:title="E-mail" />
+
+    <item
+        android:id="@+id/navigationadress"
+        android:icon="@drawable/ic_add_location_black_24dp"
+        android:title="Adres" />
+
+    <item
+        android:id="@+id/navigationgit"
+        android:icon="@drawable/ic_device_hub_black_24dp"
+        android:title="GitHub" />
+
+
+
+</menu>
+

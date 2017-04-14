@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="openDrawer" />
+    <string name="close_drawer" />
+    <string name="nr_tel">793036323</string>
+    <string name="doswiadczenie_zawodowe">Doktor Marek Bachański
+        wrócił do pracy w Centrum Zdrowia Dziecka w Warszawie.
+        Nie może jednak pracować z dziećmi, zajmuje się diagnostyką.
+        Sąd zdecydował, że lekarz, który przepisywał pacjentom medyczną marihuanę,
+        ma wrócić na to samo stanowisko, co przed zwolnieniem. Szpital utrzymuje,
+        że realizuje wyrok sądu i przyjmuje Bachańskiego, ale do kliniki diagnostycznej. –
+        Chciałbym cały czas pracować z pacjentami. Nie wyobrażam sobie swojej pracy w pracowni diagnostycznej –
+        podkreślił Bachański. Oburzenia nie kryją rodzice jego pacjentów. – Lekarz z 20-letnią praktyką, ma same sukcesy,
+        a jest odbierany pacjentom. Ta akcja skierowana jest przeciwko małym, bezbronnym pacjentom – ubolewają. Rano,
+        na Podkarpaciu, deszcz może być umiarkowany. Poza tym opady będą przelotne i niezbyt dokuczliwe.
+        Uwaga! Na krańcach północno-wschodnich lokalnie może pojawić się deszcz ze śniegiem, a nawet mokry śnieg.
+        Kierowców ostrzegamy więc przed śliskimi drogami.</string>
+</resources>
